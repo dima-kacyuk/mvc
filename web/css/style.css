@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin: 0 5%;
+}
+.all-news-block{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.news_block{
+    width: 500px;
+    height: auto;
+    text-align: center;
+    margin: 10px 0;
+}
+.single-news-block{
+    width: auto;
+    text-align: center;
+}
+.personal-area-block{
+    width: auto;
+    text-align: center;
+}
+.news-editor-box{
+    text-align: center;
+}
+.img_h{
+    height: 100px;
+}
+.pagination{
+    text-align: center;
+}
+.search_news{
+    text-align: center;
+    margin: 10px 0;
+}
